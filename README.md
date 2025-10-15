@@ -136,8 +136,3 @@ Py-Easy-Env aims to make Python dependency management **visual, intuitive, and b
 ```
 
 ---
-
-👉 This `README.md` is **professional, beginner-friendly, and contribution-ready**. It includes **branding emojis, usage workflow, installation steps, and contribution guide** in one place.  
-
-Would you like me to also **add badges** (like PyPI, License, Python version, Stars) at the top for an even more **open-source polished look**?
-```
