@@ -131,6 +131,3 @@ Py-Easy-Env aims to make Python dependency management **visual, intuitive, and b
 
 ---
 
-```
-
----
