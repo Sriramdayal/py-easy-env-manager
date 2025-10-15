@@ -1,6 +1,4 @@
-Here’s a **fully redesigned, polished, all-in-one `README.md`** for your project **Py-Easy-Env** 👇
 
----
 
 ````markdown
 # 🐍 Py-Easy-Env: The Visual Python Environment Manager
